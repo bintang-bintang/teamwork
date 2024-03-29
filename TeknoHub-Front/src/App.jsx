@@ -7,6 +7,14 @@ function App() {
 
   return (
     <>
+    <nav class="flex justify-between bg-yellow-300 p-5">
+      <h1 class="">TeknoHub</h1>
+      <ul class="flex gap-5">
+        <li>Home</li>
+        <li>Contact</li>
+        <li>Apads</li>
+      </ul>
+    </nav>
       <h1>I was Here</h1>
     </>
   )
