@@ -15,7 +15,8 @@ function App() {
         <li>Apads</li>
       </ul>
     </nav>
-      <h1>I was Here</h1>
+      <h1>I was Here</h1>\
+      <h2>Penambahan customer view</h2>
     </>
   )
 }
